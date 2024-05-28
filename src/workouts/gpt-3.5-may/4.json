@@ -1,0 +1,13 @@
+{
+  "name": "Power Burn Challenge",
+  "length": 2400,
+  "segments": [
+    {"message": "Energizing Warm-Up", "rpm": 70, "resistance": 2, "duration": 300, "position": "2", "stance": "seated"},
+    {"message": "Sprint Intervals", "rpm": 90, "resistance": 3, "duration": 180, "position": "2", "stance": "seated"},
+    {"message": "Strength Climb", "rpm": 60, "resistance": 5, "duration": 360, "position": "3", "stance": "seated"},
+    {"message": "Endurance Ride", "rpm": 65, "resistance": 3, "duration": 240, "position": "2", "stance": "seated"},
+    {"message": "Stand and Push", "rpm": 70, "resistance": 3, "duration": 180, "position": "2.5", "stance": "standing"},
+    {"message": "Final Sprint Blast", "rpm": 95, "resistance": 2, "duration": 180, "position": "2", "stance": "seated"},
+    {"message": "Cool Down and Stretch", "rpm": 60, "resistance": 1, "duration": 420, "position": "1", "stance": "seated"}
+  ]
+}

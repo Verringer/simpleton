@@ -1,0 +1,3 @@
+<template class="text-white">
+  <button class="bg-blue-500 p-2 rounded-md font-semibold text-sm tracking-normal text-white hover:opacity-90 transition duration-100 oled:bg-white oled:text-black light:bg-gray-700 yellow:bg-yellow-300 fallout:bg-green-300 fallout:text-green-700 computer:bg-gray-800 modern:rounded-none modern:bg-blue-900 night:bg-gray-700 light:text-white/80 modern:text-white computer:text-white"><slot /></button>
+</template>

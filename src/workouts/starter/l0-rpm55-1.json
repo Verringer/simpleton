@@ -1,0 +1,46 @@
+{
+  "name": "GO - L0 RPM55 #1",
+  "length": 900,
+  "segments": [
+    {
+      "message": "Let's get started",
+      "rpm": 45,
+      "resistance": 1,
+      "duration": 300,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Let's add some resistance",
+      "rpm": 50,
+      "resistance": 2,
+      "duration": 180,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Recovery",
+      "rpm": 45,
+      "resistance": 1,
+      "duration": 60,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Recovery",
+      "rpm": 55,
+      "resistance": 2,
+      "duration": 180,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Cool down",
+      "rpm": 45,
+      "resistance": 1,
+      "duration": 180,
+      "position": "2",
+      "stance": "seated"
+    }
+  ]
+}

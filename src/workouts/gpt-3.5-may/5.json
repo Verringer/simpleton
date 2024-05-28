@@ -1,0 +1,13 @@
+{
+  "name": "Endurance Challenge Plus",
+  "length": 2700,
+  "segments": [
+    {"message": "Dynamic Warm-Up", "rpm": 65, "resistance": 2, "duration": 300, "position": "2", "stance": "seated"},
+    {"message": "Power Surge", "rpm": 80, "resistance": 3, "duration": 180, "position": "2", "stance": "seated"},
+    {"message": "Steep Climb", "rpm": 55, "resistance": 5, "duration": 420, "position": "3", "stance": "seated"},
+    {"message": "Interval Sprints", "rpm": 85, "resistance": 3, "duration": 240, "position": "2", "stance": "seated"},
+    {"message": "Strength Stand", "rpm": 70, "resistance": 4, "duration": 240, "position": "2.5", "stance": "standing"},
+    {"message": "Endurance Push", "rpm": 65, "resistance": 3, "duration": 300, "position": "2", "stance": "seated"},
+    {"message": "Cool Down and Stretch", "rpm": 60, "resistance": 1, "duration": 420, "position": "1", "stance": "seated"}
+  ]
+}

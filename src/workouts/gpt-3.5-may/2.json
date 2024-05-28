@@ -1,0 +1,15 @@
+{
+  "name": "Extreme HIIT Challenge",
+  "length": 2700,
+  "segments": [
+    {"message": "Explosive Warm-Up", "rpm": 70, "resistance": 2, "duration": 300, "position": "2", "stance": "seated"},
+    {"message": "HIIT Sprint 1", "rpm": 90, "resistance": 4, "duration": 120, "position": "2", "stance": "seated"},
+    {"message": "Recovery Ride", "rpm": 60, "resistance": 2, "duration": 180, "position": "2", "stance": "seated"},
+    {"message": "HIIT Sprint 2", "rpm": 95, "resistance": 4, "duration": 120, "position": "2", "stance": "seated"},
+    {"message": "Hill Climb", "rpm": 55, "resistance": 5, "duration": 300, "position": "3", "stance": "seated"},
+    {"message": "HIIT Sprint 3", "rpm": 100, "resistance": 4, "duration": 120, "position": "2", "stance": "seated"},
+    {"message": "Strength Stand", "rpm": 70, "resistance": 3, "duration": 180, "position": "2.5", "stance": "standing"},
+    {"message": "Endurance Ride", "rpm": 65, "resistance": 3, "duration": 300, "position": "2", "stance": "seated"},
+    {"message": "Cooldown and Stretch", "rpm": 60, "resistance": 1, "duration": 420, "position": "1", "stance": "seated"}
+  ]
+}

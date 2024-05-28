@@ -1,0 +1,166 @@
+{
+  "name": "GO - L1 Basic #1",
+  "length": 1095,
+  "segments": [
+    {
+      "message": "Let's get started",
+      "rpm": 60,
+      "resistance": 1,
+      "duration": 120,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Raise resistance + pedalling rate",
+      "rpm": 70,
+      "resistance": 2,
+      "duration": 180,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Resistance up",
+      "rpm": 70,
+      "resistance": 3,
+      "duration": 45,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Resistance down",
+      "rpm": 70,
+      "resistance": 2,
+      "duration": 45,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Recovery",
+      "rpm": 60,
+      "resistance": 1,
+      "duration": 60,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Standing!",
+      "rpm": 70,
+      "resistance": 2,
+      "duration": 45,
+      "position": "2.5",
+      "stance": "standing"
+    },
+    {
+      "message": "Sit down and raise resistance",
+      "rpm": 70,
+      "resistance": 3,
+      "duration": 30,
+      "position": "2",
+      "stance": "standing"
+    },
+    {
+      "message": "Resistance down",
+      "rpm": 70,
+      "resistance": 3,
+      "duration": 30,
+      "position": "2",
+      "stance": "standing"
+    },
+    {
+      "message": "Standing!",
+      "rpm": 70,
+      "resistance": 2,
+      "duration": 45,
+      "position": "2.5",
+      "stance": "standing"
+    },
+    {
+      "message": "Recovery",
+      "rpm": 60,
+      "resistance": 1,
+      "duration": 60,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Let's crank the resistance",
+      "rpm": 55,
+      "resistance": 4,
+      "duration": 60,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "As high as you can go",
+      "rpm": 60,
+      "resistance": 5,
+      "duration": 55,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Resistance down one",
+      "rpm": 55,
+      "resistance": 4,
+      "duration": 45,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Off your seat",
+      "rpm": 55,
+      "resistance": 4,
+      "duration": 30,
+      "position": "3",
+      "stance": "standing"
+    },
+    {
+      "message": "Recovery",
+      "rpm": 60,
+      "resistance": 1,
+      "duration": 60,
+      "position": "1",
+      "stance": "seated"
+    },
+    {
+      "message": "Up and standing",
+      "rpm": 50,
+      "resistance": 4,
+      "duration": 30,
+      "position": "3",
+      "stance": "standing"
+    },
+    {
+      "message": "Seated more resistance",
+      "rpm": 50,
+      "resistance": 5,
+      "duration": 30,
+      "position": "2.5",
+      "stance": "seated"
+    },
+    {
+      "message": "Drop resistance",
+      "rpm": 50,
+      "resistance": 4,
+      "duration": 30,
+      "position": "2.5",
+      "stance": "seated"
+    },
+    {
+      "message": "Off your seat",
+      "rpm": 50,
+      "resistance": 4,
+      "duration": 30,
+      "position": "3",
+      "stance": "standing"
+    },
+    {
+      "message": "Cool down",
+      "rpm": 60,
+      "resistance": 1,
+      "duration": 60,
+      "position": "1",
+      "stance": "seated"
+    }
+  ]
+}

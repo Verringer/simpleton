@@ -1,0 +1,86 @@
+{
+  "name": "Energize - Dynamic Ride",
+  "length": 1300,
+  "segments": [
+    {
+      "message": "Warm-Up Momentum",
+      "rpm": 60,
+      "resistance": 1,
+      "duration": 180,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Accelerate & Elevate",
+      "rpm": 70,
+      "resistance": 2,
+      "duration": 240,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Power Climb",
+      "rpm": 70,
+      "resistance": 3,
+      "duration": 90,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Speed Surge",
+      "rpm": 70,
+      "resistance": 2,
+      "duration": 90,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Dynamic Recovery",
+      "rpm": 60,
+      "resistance": 1,
+      "duration": 120,
+      "position": "2",
+      "stance": "seated"
+    },
+    {
+      "message": "Stand Strong!",
+      "rpm": 70,
+      "resistance": 2,
+      "duration": 90,
+      "position": "2.5",
+      "stance": "standing"
+    },
+    {
+      "message": "Seated Climb",
+      "rpm": 70,
+      "resistance": 3,
+      "duration": 60,
+      "position": "2",
+      "stance": "standing"
+    },
+    {
+      "message": "Push the Limit",
+      "rpm": 70,
+      "resistance": 3,
+      "duration": 60,
+      "position": "2",
+      "stance": "standing"
+    },
+    {
+      "message": "Powerful Finish",
+      "rpm": 70,
+      "resistance": 2,
+      "duration": 90,
+      "position": "2.5",
+      "stance": "standing"
+    },
+    {
+      "message": "Cool Down Journey",
+      "rpm": 60,
+      "resistance": 1,
+      "duration": 180,
+      "position": "1",
+      "stance": "seated"
+    }
+  ]
+}
